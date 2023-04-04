@@ -1,4 +1,4 @@
-# shopping-cart-exercise-template
+# shopping-cart-exercise
 
 Write a ShoppingCart class that represents a shopping cart with the ability to add and remove items, as well as calculate the total cost of the items in the cart. The ShoppingCart class should have the following methods:
 
